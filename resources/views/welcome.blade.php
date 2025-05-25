@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Pokemon Binder Planner</title>
 
         <link rel="icon" href="/images/poke_ball_favicon.ico" sizes="any">
         <link rel="icon" href="/images/poke_ball_logo.svg" type="image/svg+xml">
