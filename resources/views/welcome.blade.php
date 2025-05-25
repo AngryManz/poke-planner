@@ -6,8 +6,8 @@
 
         <title>Laravel</title>
 
-        <link rel="icon" href="/favicon.ico" sizes="any">
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+        <link rel="icon" href="/images/poke_ball_favicon.ico" sizes="any">
+        <link rel="icon" href="/images/poke_ball_logo.svg" type="image/svg+xml">
         <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
         <!-- Fonts -->
@@ -51,7 +51,7 @@
             @endif
         </header>
         <div class="flex items-center justify-center w-full transition-opacity opacity-100 duration-750 lg:grow starting:opacity-0">
-            <img src="{{ asset('images/International_Pokémon_logo.svg') }}"
+            <img src="{{ asset('images/pokemon_logo.svg') }}"
                  alt="Pokémon"
                  class="w-full lg:max-w-4xl max-w-[335px] max-lg:px-6 lg:px-0"
             >
